@@ -5,11 +5,10 @@ Bienvenido a mi portafolio de certificados y proyectos de programación. Aquí p
 
 ## Proyectos
 
-### 1. [Certificados](https://github.com/Jose-Vicente-Antonio-Gonzalez/Portafolio-de-Proyectos/Certificados.git)
+### 1. [Certificados](https://github.com/Jose-Vicente-Antonio-Gonzalez/Portafolio-de-Proyectos/tree/5e3e867a9e59e7b20fb68c378c16ac8611efe9e0/Certificados)
 Este repositorio contiene una serie de carpetas con los certificados (expedidos hasta la fecha) de los progresos y cursos realizados por mi persona. (Se iran subiendo más conforme sean recepcionados)
 
-https://github.com/Jose-Vicente-Antonio-Gonzalez/Portafolio-de-Proyectos/Certificados.git
-
+https://github.com/Jose-Vicente-Antonio-Gonzalez/Portafolio-de-Proyectos/tree/5e3e867a9e59e7b20fb68c378c16ac8611efe9e0/Certificados
 ### 2. [Godot Experimentos](https://github.com/Jose-Vicente-Antonio-Gonzalez/Godot.Experimentos.git)
 Este repositorio contiene una serie de experimentos desarrollados en Godot, un motor de juego de código abierto. Los proyectos aquí incluyen pruebas y demostraciones de funcionalidades y características del motor, como el manejo de físicas, luces, animaciones y otros aspectos técnicos. Estos proyectos están destinados a explorar y entender el funcionamiento de Godot de manera práctica.
 
